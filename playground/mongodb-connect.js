@@ -27,4 +27,3 @@ MongoClient.connect('mongodb://localhost:27017/TodoApp', { useNewUrlParser: true
 
 
 
-//DeprecationWarning: current URL string parser is deprecated,pass option { useNewUrlParser: true } to MongoClient.connect.
